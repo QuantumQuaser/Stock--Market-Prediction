@@ -7,7 +7,7 @@ This README documents the most refined version of  LSTM-based stock prediction m
 
 ## Table of Contents
 1.  [Introduction](#Introduction)
-2. [Environment setup](#Environment Setup)
+2. [Environment setup](#Environment-Setup)
 3. **Data Acquisition** 
 4. **Feature Engineering**
 5. **LSTM Model Explanation**
