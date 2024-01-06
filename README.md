@@ -8,12 +8,14 @@ This README documents the most refined version of  LSTM-based stock prediction m
 ## Table of Contents
 1.  [Introduction](#Introduction)
 2. [Environment setup](#Environment-Setup)
-3. **Data Acquisition** 
-4. **Feature Engineering**
-5. **LSTM Model Explanation**
-6. **Model Training and Evaluation**
-7. **Results and Interpretation**
-8. **Conclusions and Recommendations**
+3.  [Data Acquisition](#Data-Acquisition)
+4. [Feature Engineering](#Feature-Engineering)
+5. [Sentiment Analysis](#Sentiment-Analysis)
+6. [LSTM Model Explanation](#LSTM-Model-Explanation)
+7. [ Model Architecture](# Model-Architecture)
+8. [Activation Functions](#Activation-Functions)
+9. [Model Training and Evaluation](#Model-Training-and-Evaluation)
+10   [Results and Interpretation](#Results-and-Interpretation)
 
 
 ## Environment Setup
@@ -57,7 +59,7 @@ The model includes LSTM layers followed by dense layers. The LSTM layers extract
 The model is trained using a cross-validation approach to ensure robustness. The performance is evaluated using accuracy, F1 score, ROC-AUC, and a confusion matrix, providing a comprehensive view of the model's predictive capabilities.
 
 
-## 7. Results and Interpretation
+##  Results and Interpretation
 
 ### Model Performance Overview
 | Fold | Accuracy | F1 Score | ROC-AUC | Confusion Matrix |
