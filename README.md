@@ -6,7 +6,7 @@ This README documents the most refined version of  LSTM-based stock prediction m
 [ provides an in-depth explanation of a machine learning model designed to predict stock performance. The model uses a Long Short-Term Memory (LSTM) neural network to recommend the best out of five stocks for trading in the upcoming week. ]
 
 ## Table of Contents
-1. **Introduction**
+1. **Introduction** [Introduction](#Introduction)
 2. **Environment Setup**
 3. **Data Acquisition**
 4. **Feature Engineering**
