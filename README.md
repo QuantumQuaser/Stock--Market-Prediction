@@ -15,8 +15,7 @@ This README documents the most refined version of  LSTM-based stock prediction m
 7. [ Model Architecture](#Model-Architecture)
 8. [Activation Functions](#Activation-Functions)
 9. [Model Training and Evaluation](#Model-Training-and-Evaluation)
-    
-10.[Results and Interpretation](#Results-and-Interpretation)
+10. [Results and Interpretation](#Results-and-Interpretation)
 
 
 ## Environment Setup
