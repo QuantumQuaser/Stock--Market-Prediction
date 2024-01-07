@@ -1,5 +1,20 @@
 #  LSTM-Based Stock Prediction Model
 
+# Stock Prediction Model: Evolution and Fine-Tuning
+
+## Introduction
+
+Welcome to the comprehensive journey of  stock prediction model's evolution. This journey encapsulates the meticulous fine-tuning and various enhancements  model has undergone. To explore the developmental stages and the specific tweaks made at each point, 
+**click**  [Introduction](#Introduction)
+
+Keep in mind that this model is a work in progress, and  continuously striving to improve its accuracy and efficiency. Stay tuned for future updates!
+
+For those who wish to delve directly into  latest and most refined model iteration till date,
+**click**  [# Comprehensive Analysis of Stock Prediction Model Evolution](##Comprehensive-Analysis-of-Stock-Prediction-Model-Evolution)
+
+
+
+
 ## Introduction
 
 This README documents the most refined version of  LSTM-based stock prediction model to date. While the model has shown promise, it remains a work in progress, continually evolving to adapt to the dynamic nature of stock markets. The complete code for this model is accessible via this [link](https://github.com/QuantumQuaser/Stock--Market-Prediction/tree/main/improvised%20_keras).
