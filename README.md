@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/QuantumQuaser/Stock--Market-Prediction/blob/main/Stock%20Market%20Prediction/Data_Analysis_Plots_Visuals/viratndian_stockmarket_prediction_machine_learning_model_using__f478f1c0-6e0d-4040-be49-ce334afa2e8f.png" width="600" height="400"></p>
+
 #  LSTM-Based Stock Prediction Model
 
 **Note:**
