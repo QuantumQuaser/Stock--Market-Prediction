@@ -3,12 +3,14 @@
 **Note:**
 
 Welcome to the comprehensive journey of  stock prediction model's evolution. This journey encapsulates the meticulous fine-tuning and various enhancements  model has undergone. To explore the developmental stages and the specific tweaks made at each point, 
-**click**  [Introduction](#Introduction)
+**click**  [# Comprehensive Analysis of Stock Prediction Model Evolution](##Comprehensive-Analysis-of-Stock-Prediction-Model-Evolution)
 
 **Keep in mind that this model is a work in progress, and  continuously striving to improve its accuracy and efficiency. Stay tuned for future updates!**
 
 For those who wish to delve directly into  latest and most refined model iteration till date,
-**click**  [# Comprehensive Analysis of Stock Prediction Model Evolution](##Comprehensive-Analysis-of-Stock-Prediction-Model-Evolution)
+**click**  [Introduction](#Introduction)
+
+
 
 
 
@@ -104,6 +106,7 @@ This document explores the evolution of  stock prediction models from Test1 to T
 ## Overview of Iterations
 
 ### Test1: The Foundational Model
+
 **code file** : [Test1](https://github.com/QuantumQuaser/Stock--Market-Prediction/blob/main/improvised%20_keras/version_3_2.2_weekly_best_stock%20(1).py).
 
 #### Features of Test1
