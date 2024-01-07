@@ -3,7 +3,7 @@
 **Note:**
 
 Welcome to the comprehensive journey of  stock prediction model's evolution. This journey encapsulates the meticulous fine-tuning and various enhancements  model has undergone. To explore the developmental stages and the specific tweaks made at each point, 
-**click**  [Comprehensive Analysis of Stock Prediction Model Evolution](##Comprehensive-Analysis-of-Stock-Prediction-Model-Evolution)
+**click**  [Comprehensive Analysis of Stock Prediction Model Evolution](#Comprehensive-Analysis-of-Stock-Prediction-Model-Evolution)
 
 **Keep in mind that this model is a work in progress, and  continuously striving to improve its accuracy and efficiency. Stay tuned for future updates!**
 
