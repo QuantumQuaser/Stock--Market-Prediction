@@ -97,9 +97,9 @@ The model demonstrates potential in stock prediction using LSTM. Future improvem
 - Exploring additional financial indicators.
 
 
-# Comprehensive Analysis of Stock Prediction Model Evolution
+## Comprehensive Analysis of Stock Prediction Model Evolution
 
-## Introduction
+## Premise:
 
 This document explores the evolution of  stock prediction models from Test1 to Test2, and finally to Test3, highlighting significant improvements and modifications made in each iteration.
 
