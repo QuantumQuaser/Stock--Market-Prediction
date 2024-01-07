@@ -1,13 +1,11 @@
 #  LSTM-Based Stock Prediction Model
 
-# Stock Prediction Model: Evolution and Fine-Tuning
-
-## Introduction
+**Note:**
 
 Welcome to the comprehensive journey of  stock prediction model's evolution. This journey encapsulates the meticulous fine-tuning and various enhancements  model has undergone. To explore the developmental stages and the specific tweaks made at each point, 
 **click**  [Introduction](#Introduction)
 
-Keep in mind that this model is a work in progress, and  continuously striving to improve its accuracy and efficiency. Stay tuned for future updates!
+**Keep in mind that this model is a work in progress, and  continuously striving to improve its accuracy and efficiency. Stay tuned for future updates!**
 
 For those who wish to delve directly into  latest and most refined model iteration till date,
 **click**  [# Comprehensive Analysis of Stock Prediction Model Evolution](##Comprehensive-Analysis-of-Stock-Prediction-Model-Evolution)
@@ -106,6 +104,7 @@ This document explores the evolution of  stock prediction models from Test1 to T
 ## Overview of Iterations
 
 ### Test1: The Foundational Model
+**code file** : [Test1](https://github.com/QuantumQuaser/Stock--Market-Prediction/blob/main/improvised%20_keras/version_3_2.2_weekly_best_stock%20(1).py).
 
 #### Features of Test1
 - **Model Framework**: RandomForest Classifier.
@@ -121,6 +120,8 @@ This document explores the evolution of  stock prediction models from Test1 to T
 
 ### Test2: Introduction of LSTM and Sentiment Analysis
 
+**code file** : [Test1](https://github.com/QuantumQuaser/Stock--Market-Prediction/blob/main/improvised%20_keras/version_3_2.1_organized%20(1).py).
+
 #### Enhancements in Test2
 - **Model Evolution**: Shift to LSTM Networks.
 - **Sentiment Analysis**: Basic analysis using TextBlob.
@@ -133,6 +134,8 @@ This document explores the evolution of  stock prediction models from Test1 to T
 ---
 
 ### Test3: Advanced Refinement and Forward Predictions
+
+**code file** : [Test1](https://github.com/QuantumQuaser/Stock--Market-Prediction/blob/main/improvised%20_keras/version_4_1_keras.py).
 
 #### Key Features of Test3
 - **LSTM Enhancement**: Improved LSTM model.
